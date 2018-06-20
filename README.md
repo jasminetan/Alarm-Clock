@@ -12,3 +12,17 @@
 ![alt text](https://github.com/jasminetan/alarm-clock/blob/master/AlarmClock.png)
 
 ### Use case Description
+
+#### Scenario
+
+#### Triggering event
+
+#### Actors
+
+#### Pre-condition
+
+#### Post-condition
+
+#### Flow of events
+
+#### Exception
