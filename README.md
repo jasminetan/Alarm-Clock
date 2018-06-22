@@ -31,16 +31,21 @@ Time set, alarm set, and alarm shut off
 #### Flow of events
 Actor 
 
-1. Start application
-2. Choose time format
-3. Set alarm(s)
-4. Set snooze time
-6. Snooze or turn off alarm
+1 Start application
+
+2 Choose time format
+
+3 Set alarm(s)
+
+4 Set snooze time
+
+6 Snooze or turn off alarm
 
 System
 
-5. Trigger alarm
-7. Time out alarm
+5 Trigger alarm
+
+7 Time out alarm
 
 #### Exception
 **Step:** 7   
