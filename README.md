@@ -52,6 +52,6 @@ Alarm set, alarm triggered, alarm shut off
 ### Exception
 Step: 7   
 
-Condition: Alarm never snoozed or turned off  
+Condition: Alarm never snoozed or manually turned off after developer determined time frame
 
-Action description:Time out alarm 
+Action description: Stop alarm
