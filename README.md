@@ -8,27 +8,27 @@
 
 *It is possible to set one or two alarms. When an alarm fires, it will sound some noise. The user can turn it off, or choose to “snooze”. If the user does not respond at all, the alarm will turn off itself after 2 minutes. “Snoozing” means to turn off the sound, but the alarm will fire again after some minutes of delay. This “snoozing time” is pre-adjustable.*
 
-### Use case Diagram
+## Use case Diagram
 ![alt text](https://github.com/jasminetan/alarm-clock/blob/master/diagram.png)
 
-### Use case Description
+## Use case Description
 
-#### Scenario
+### Scenario
 Set time and alarm
 
-#### Triggering event
+### Triggering event
 Start application
 
-#### Actors
+### Actors
 User
 
-#### Pre-condition
+### Pre-condition
 Software installed
 
-#### Post-condition
+### Post-condition
 Time set, alarm set, and alarm shut off
 
-#### Flow of events
+### Flow of events
 *Actor*
 
 1 Start application
@@ -49,7 +49,7 @@ Time set, alarm set, and alarm shut off
 
 7 Time out alarm
 
-#### Exception
+### Exception
 Step: 7   
 
 Condition: Alarm never snoozed or turned off  
