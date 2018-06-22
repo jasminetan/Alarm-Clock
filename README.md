@@ -39,6 +39,7 @@ Actor
 7. Snooze or turn off alarm
 
 System
+
 6. Trigger alarm
 8. Time out alarm
 
