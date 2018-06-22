@@ -26,7 +26,7 @@ User, System
 Software installed
 
 ### Post-condition
-Time set, alarm set, and alarm shut off
+Alarm set, alarm triggered, alarm shut off
 
 ### Flow of events
 *Actor*
