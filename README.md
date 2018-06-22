@@ -20,7 +20,7 @@ Set time and alarm
 Start application
 
 ### Actors
-User
+User, System
 
 ### Pre-condition
 Software installed
