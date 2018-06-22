@@ -14,15 +14,35 @@
 ### Use case Description
 
 #### Scenario
+Set time and alarm
 
 #### Triggering event
+Power on alarm clock
 
 #### Actors
+User
 
 #### Pre-condition
+Alarm clock turned on
 
 #### Post-condition
+Time set, alarm set, and alarm shut off
 
 #### Flow of events
+Actor 
+
+1. Power on alarm clock
+2. Choose time format
+3. Set time
+4. Set alarm(s)
+5. Set snooze time
+7. Snooze or turn off alarm
+
+System
+6. Trigger alarm
+8. Time out alarm
 
 #### Exception
+**Step:** 8     
+**Condition:** Snooze or turn off alarm     
+**Action description:** Time out alarm unecessary
