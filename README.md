@@ -43,6 +43,6 @@ System
 7. Time out alarm
 
 #### Exception
-**Step:** 8   
+**Step:** 7   
 **Condition:** Snoozed or turned off alarm     
 **Action description:** Time out alarm unecessary
