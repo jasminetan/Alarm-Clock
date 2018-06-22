@@ -29,7 +29,7 @@ Software installed
 Time set, alarm set, and alarm shut off
 
 #### Flow of events
-Actor 
+*Actor*
 
 1 Start application
 
@@ -42,7 +42,8 @@ Actor
 6 Snooze or turn off alarm
 
 
-System
+
+*System*
 
 5 Trigger alarm
 
@@ -50,5 +51,5 @@ System
 
 #### Exception
 **Step:** 7   
-**Condition:** Snoozed or turned off alarm     
-**Action description:** Time out alarm unecessary
+**Condition:** Alarm never snoozed or turned off      
+**Action description:** Time out alarm 
