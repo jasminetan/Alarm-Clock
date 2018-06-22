@@ -17,13 +17,13 @@
 Set time and alarm
 
 #### Triggering event
-Power on alarm clock
+Start application
 
 #### Actors
 User
 
 #### Pre-condition
-Alarm clock turned on
+Software installed
 
 #### Post-condition
 Time set, alarm set, and alarm shut off
@@ -31,7 +31,7 @@ Time set, alarm set, and alarm shut off
 #### Flow of events
 Actor 
 
-1. Power on alarm clock
+1. Start application
 2. Choose time format
 3. Set alarm(s)
 4. Set snooze time
