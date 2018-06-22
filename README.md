@@ -50,6 +50,8 @@ Time set, alarm set, and alarm shut off
 7 Time out alarm
 
 #### Exception
-**Step:** 7   
-**Condition:** Alarm never snoozed or turned off      
-**Action description:** Time out alarm 
+Step: 7   
+
+Condition: Alarm never snoozed or turned off  
+
+Action description:Time out alarm 
